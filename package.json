@@ -1,0 +1,8 @@
+{
+	"name": "protomaps-basemaps-assets",
+	"type":"module",
+	"exports": {
+		".": "./",
+		"./*": "./*"
+	}
+}
